@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ctk-spinbox-pro"
-version = "0.1.0"
+version = "0.1.0.post1"
 description = "A cleaner-looking spinbox widget for CustomTkinter"
 readme = "README.md"
 license = "MIT"
