@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ctk-spinbox"
+version = "0.1.0"
+description = "A cleaner-looking spinbox widget for CustomTkinter"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+authors = [
+    { name = "Julius Jovia Jr.", email = "that1480devguy@gmail.com" }
+]
+dependencies = [
+    "customtkinter>=5.0.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourname/ctk-spinbox"
