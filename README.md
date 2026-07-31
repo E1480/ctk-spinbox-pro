@@ -1,3 +1,4 @@
+<div align="center">
 # CTkSpinbox (Pro)
 
 [![PyPI version](https://img.shields.io/pypi/v/ctk-spinbox-pro)](https://pypi.org/project/ctk-spinbox-pro/)
@@ -11,3 +12,5 @@ Still have some sharp edges(literally) but it's a start.
 
 ## How it will look like
 <img src="https://raw.githubusercontent.com/E1480/ctk-spinbox-pro/refs/heads/master/images/Recording%202026-07-31%20024719.gif" />
+
+</div>
